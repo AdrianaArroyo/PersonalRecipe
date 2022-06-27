@@ -1,12 +1,11 @@
 ﻿using Lab6_AdrianaAH_JonathanRM.Models;
 using Lab6_AdrianaAH_JonathanRM.Repository.IRepository;
 using Microsoft.AspNetCore.Mvc;
-using System.Web.Mvc;
 
 namespace Lab6_AdrianaAH_JonathanRM.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class CategoryController
+    public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
 
