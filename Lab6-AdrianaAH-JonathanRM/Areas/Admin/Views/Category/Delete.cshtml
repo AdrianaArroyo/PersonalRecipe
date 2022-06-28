@@ -1,10 +1,10 @@
 ﻿@model Category
 
-<form method="post" asp-action="Delete">
+<form method="post" asp-action="DeletePOST">
 	<input asp-for="Id" hidden />
 	<div class="border p-3 mt-4">
 		<div row pb-2>
-			<h2 class="text-primary">Delete Category</h2>
+			<h2 class="text-primary">Eliminar Categoría</h2>
 			<hr />
 		</div>
 		<div asp-validation-summary="All"></div>
@@ -12,9 +12,9 @@
 			<label asp-for="Name"></label>
 			<input asp-for="Name" class="form-control" readonly/>
 		</div>
-		<button type="submit" class="btn btn-primary" style="width:150px">Delete</button>
+		<button type="submit" class="btn btn-primary" style="width:150px">Eliminar</button>
 		<a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:150px"> 
-			Back to list
+			Regresar
 		</a>
 	</div>
 </form>
