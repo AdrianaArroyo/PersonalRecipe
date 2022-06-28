@@ -62,3 +62,15 @@ D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6
 D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\obj\Debug\net6.0\Lab6-AdrianaAH-JonathanRM.csproj.CopyComplete
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\obj\Debug\net6.0\Lab6-AdrianaAH-JonathanRM.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\Humanizer.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\System.Web.Razor.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

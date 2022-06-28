@@ -15,22 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Documentos\Lab6-AdrianaAH-JonathanRM\Lab6-AdrianaAH-JonathanRM
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Documentos/Lab6-AdrianaAH-JonathanRM/Lab6-AdrianaAH-JonathanRM/Areas/Admin/Views - Copia/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3MgLSBDb3BpYVxDYXRlZ29yeVxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Documentos/Lab6-AdrianaAH-JonathanRM/Lab6-AdrianaAH-JonathanRM/Areas/Admin/Views - Copia/Category/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3MgLSBDb3BpYVxDYXRlZ29yeVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Documentos/Lab6-AdrianaAH-JonathanRM/Lab6-AdrianaAH-JonathanRM/Areas/Admin/Views - Copia/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3MgLSBDb3BpYVxDYXRlZ29yeVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Documentos/Lab6-AdrianaAH-JonathanRM/Lab6-AdrianaAH-JonathanRM/Areas/Admin/Views - Copia/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3MgLSBDb3BpYVxDYXRlZ29yeVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Documentos/Lab6-AdrianaAH-JonathanRM/Lab6-AdrianaAH-JonathanRM/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
